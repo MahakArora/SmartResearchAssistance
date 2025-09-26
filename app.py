@@ -9,7 +9,7 @@ import json
 # -----------------------------
 # Gemini API Setup
 # -----------------------------
-LLM_API_KEY = "AIzaSyAtZRbuwrmUGb9RvkiFGfGgcdANmf511Gs"  # replace with your key
+LLM_API_KEY = ""  # replace with your key
 LLM_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent"
 
 # --- Extractors ---
